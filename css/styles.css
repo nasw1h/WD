@@ -335,7 +335,7 @@ a {
 }
 
     .banner-content h2 {
-        color: #fff;
+        color:rgb(134 221 255);
         font-size: 3.5em;
         margin: 2% 0 30px;
         line-height: 1.2em;
@@ -344,7 +344,7 @@ a {
     .banner-content p {
         font-size: 1.9em;
         font-weight: normal;
-        color: #B9B9B9;
+        color: white;
     }
 
 .sub-heading {
